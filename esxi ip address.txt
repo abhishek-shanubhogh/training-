@@ -1,3 +1,0 @@
-ipv4 192.168.231.136  dhcp
-fe80::20c:29ff:febb:aa23  static
-hello  abhishek
